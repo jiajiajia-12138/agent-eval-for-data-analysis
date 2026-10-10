@@ -11,3 +11,7 @@ An executable evaluation framework for data-analysis agents
 4. 多 Agent 对比：引入 cost-of-pass 与失败模式分析。
 
 目标：让“Agent 能不能做数据分析”这件事，从主观感受变成可复现的评测结果。
+
+## 文档
+
+- [评测框架](docs/framework.md)
